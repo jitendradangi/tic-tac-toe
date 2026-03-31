@@ -54,8 +54,7 @@ tic-tac-toe/
 
 ## 📸 Screenshots
 
-Example:
-!(tic-tac-toe-demo)
+![screenshot](tic-tac-toe-demo)
 
 ---
 
