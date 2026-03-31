@@ -54,7 +54,7 @@ tic-tac-toe/
 
 ## 📸 Screenshots
 
-![screenshot](tic-tac-toe-demo)
+(tic-tac-toe-demo.png)
 
 ---
 
