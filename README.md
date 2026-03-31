@@ -54,13 +54,8 @@ tic-tac-toe/
 
 ## 📸 Screenshots
 
-(Add your screenshot here)
-
 Example:
-
-```
-![Game Screenshot](demo.png)
-```
+!(tic-tac-toe-demo)
 
 ---
 
